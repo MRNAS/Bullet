@@ -119,7 +119,7 @@ void	Box2dDemo::initPhysics()
 	GL_DialogWindow* dialog = m_dialogDynamicsWorld->createDialog(0,200,420,300,"Help");
 	GL_TextControl* txt = new GL_TextControl;
 	dialog->addControl(txt);
-	txt->m_textLines.push_back("Mouse to tacos");
+	txt->m_textLines.push_back("Mouse to tacos con carne");
 	txt->m_textLines.push_back("Test 2");
 	txt->m_textLines.push_back("mouse to interact");
 	txt->m_textLines.push_back("ALT + mouse to move camera");
