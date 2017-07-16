@@ -48,7 +48,7 @@ ELSE (USE_GLUT)
 		FractureDemo
 		Benchmarks 
 		Box2dDemo
-                SimpleBoxDemo 
+                SimpleBox 
 		CollisionInterfaceDemo 
 		ConcaveDemo 
 		ConstraintDemo

@@ -952,13 +952,3 @@ Win32DemoApplication.h
 GlutDemoApplication.h
 /home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/GlutDemoApplication.h
 
-/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/main.cpp
-GyroscopicDemo.h
-/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/GyroscopicDemo.h
-GlutStuff.h
-/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/GlutStuff.h
-GLDebugDrawer.h
-/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/GLDebugDrawer.h
-btBulletDynamicsCommon.h
-/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/btBulletDynamicsCommon.h
-

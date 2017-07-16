@@ -360,14 +360,14 @@ Demos/AllBulletDemos/preinstall:
 
 # All Build rule for target.
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: Extras/HACD/CMakeFiles/HACD.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: Extras/GIMPACTUtils/CMakeFiles/GIMPACTUtils.dir/all
-Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: Extras/glui/CMakeFiles/GLUI.dir/all
+Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/all
+Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/build.make Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/depend
@@ -420,11 +420,11 @@ Demos/ConvexDecompositionDemo/preinstall:
 
 # All Build rule for target.
 Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/all
 Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/all
 Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/all
 Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: Extras/HACD/CMakeFiles/HACD.dir/all
+Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/build.make Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/depend
@@ -530,11 +530,11 @@ Demos/BulletXmlImportDemo/preinstall:
 
 # All Build rule for target.
 Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/all
 Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: Extras/Serialize/BulletXmlWorldImporter/CMakeFiles/BulletXmlWorldImporter.dir/all
 Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/all
 Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/all
+Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/build.make Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/depend
@@ -587,9 +587,9 @@ Demos/ConstraintDemo/preinstall:
 
 # All Build rule for target.
 Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/all: Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/all
 Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/all: Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/all
+Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/build.make Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/depend
@@ -1172,9 +1172,9 @@ Demos/GyroscopicDemo/preinstall:
 
 # All Build rule for target.
 Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/all: Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/all
 Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/all: Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/all
+Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/build.make Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/depend
@@ -1598,8 +1598,8 @@ Demos/SoftDemo/preinstall:
 
 # All Build rule for target.
 Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/all: src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/all
+Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/build.make Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/depend
@@ -1970,9 +1970,9 @@ Demos/ConcaveDemo/preinstall:
 
 # All Build rule for target.
 Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/all: Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/all
 Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/all: Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/all
+Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/build.make Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/depend
@@ -2290,10 +2290,10 @@ Demos/SerializeDemo/preinstall:
 
 # All Build rule for target.
 Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/all
-Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/all
 Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/all
 Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/all
+Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: src/LinearMath/CMakeFiles/LinearMath.dir/all
 Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: src/BulletDynamics/CMakeFiles/BulletDynamics.dir/all
 Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/all: src/BulletCollision/CMakeFiles/BulletCollision.dir/all
 	$(MAKE) -f Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/build.make Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/depend
