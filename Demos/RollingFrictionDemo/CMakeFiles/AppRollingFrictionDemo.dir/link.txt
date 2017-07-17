@@ -1,0 +1,1 @@
+/usr/bin/g++   -g3 -gdwarf-2 -D_DEBUG    CMakeFiles/AppRollingFrictionDemo.dir/main.o CMakeFiles/AppRollingFrictionDemo.dir/RollingFrictionDemo.o  -o AppRollingFrictionDemo -rdynamic ../OpenGL/libOpenGLSupport.a ../../src/BulletDynamics/libBulletDynamics.a ../../src/BulletCollision/libBulletCollision.a ../../src/LinearMath/libLinearMath.a -lglut -lGL -lGLU 

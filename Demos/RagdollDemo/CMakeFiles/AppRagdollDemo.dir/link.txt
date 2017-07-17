@@ -1,0 +1,1 @@
+/usr/bin/g++   -g3 -gdwarf-2 -D_DEBUG    CMakeFiles/AppRagdollDemo.dir/RagdollDemo.o CMakeFiles/AppRagdollDemo.dir/main.o  -o AppRagdollDemo -rdynamic ../OpenGL/libOpenGLSupport.a ../../src/BulletDynamics/libBulletDynamics.a ../../src/BulletCollision/libBulletCollision.a ../../src/LinearMath/libLinearMath.a -lglut -lGL -lGLU 

@@ -1,0 +1,1582 @@
+[
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/HelloWorld",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/AppHelloWorld.dir/HelloWorld.o -c /home/tensegribuntu/bullet3-2.82/Demos/HelloWorld/HelloWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/HelloWorld/HelloWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GLDebugFont.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GLDebugFont.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GLDebugFont.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GL_DialogDynamicsWorld.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_DialogDynamicsWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_DialogDynamicsWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GL_DialogWindow.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_DialogWindow.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_DialogWindow.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GL_ShapeDrawer.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_ShapeDrawer.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_ShapeDrawer.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GL_Simplex1to4.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_Simplex1to4.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GL_Simplex1to4.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GLDebugDrawer.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GLDebugDrawer.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GLDebugDrawer.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/RenderTexture.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/RenderTexture.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/RenderTexture.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/DemoApplication.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/DemoApplication.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/DemoApplication.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GlutDemoApplication.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GlutDemoApplication.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GlutDemoApplication.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/GlutStuff.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GlutStuff.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/GlutStuff.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/stb_image.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/stb_image.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/stb_image.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexHull    -o CMakeFiles/OpenGLSupport.dir/Win32DemoApplication.o -c /home/tensegribuntu/bullet3-2.82/Demos/OpenGL/Win32DemoApplication.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/OpenGL/Win32DemoApplication.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/Main.o -c /home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos/Main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos/Main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/DemoEntries.o -c /home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos/DemoEntries.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos/DemoEntries.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/CcdPhysicsDemo/CcdPhysicsDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo/CcdPhysicsDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo/CcdPhysicsDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/BasicDemo/BasicDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/BasicDemo/BasicDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BasicDemo/BasicDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/BspDemo/BspDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/BspDemo/BspConverter.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspConverter.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspConverter.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/BspDemo/BspLoader.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspLoader.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspLoader.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/DynamicControlDemo/MotorDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo/MotorDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo/MotorDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/ConcaveDemo/ConcavePhysicsDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo/ConcavePhysicsDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo/ConcavePhysicsDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/ConcaveRaycastDemo/ConcaveRaycastDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo/ConcaveRaycastDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo/ConcaveRaycastDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/ConcaveConvexcastDemo/ConcaveConvexcastDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo/ConcaveConvexcastDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo/ConcaveConvexcastDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/ConvexDecompositionDemo/ConvexDecompositionDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo/ConvexDecompositionDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo/ConvexDecompositionDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/SliderConstraintDemo/SliderConstraintDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo/SliderConstraintDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo/SliderConstraintDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/RagdollDemo/RagdollDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo/RagdollDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo/RagdollDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/GimpactTestDemo/GimpactTestDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/GimpactTestDemo/GimpactTestDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GimpactTestDemo/GimpactTestDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/Raytracer/Raytracer.o -c /home/tensegribuntu/bullet3-2.82/Demos/Raytracer/Raytracer.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Raytracer/Raytracer.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/GjkConvexCastDemo/LinearConvexCastDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo/LinearConvexCastDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo/LinearConvexCastDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/ForkLiftDemo/ForkLiftDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo/ForkLiftDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo/ForkLiftDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/SoftDemo/SoftDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/SoftDemo/SoftDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SoftDemo/SoftDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/ConstraintDemo/ConstraintDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo/ConstraintDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo/ConstraintDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/Benchmarks/BenchmarkDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/Benchmarks/BenchmarkDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Benchmarks/BenchmarkDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/AllBulletDemos",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML -I/home/tensegribuntu/bullet3-2.82/Extras/LibXML/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppAllBulletDemos.dir/__/Box2dDemo/Box2dDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo/Box2dDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo/Box2dDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppConvexDecompositionDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/HACD -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppConvexDecompositionDemo.dir/ConvexDecompositionDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo/ConvexDecompositionDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConvexDecompositionDemo/ConvexDecompositionDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCcdPhysicsDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCcdPhysicsDemo.dir/CcdPhysicsDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo/CcdPhysicsDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CcdPhysicsDemo/CcdPhysicsDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BulletXmlImportDemo",
+  "command": "/usr/bin/g++   -DDESERIALIZE_SOFT_BODIES -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter    -o CMakeFiles/AppBulletXmlImportDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/BulletXmlImportDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BulletXmlImportDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BulletXmlImportDemo",
+  "command": "/usr/bin/g++   -DDESERIALIZE_SOFT_BODIES -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter    -o CMakeFiles/AppBulletXmlImportDemo.dir/BulletXmlImportDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/BulletXmlImportDemo/BulletXmlImportDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BulletXmlImportDemo/BulletXmlImportDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppConstraintDemo.dir/ConstraintDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo/ConstraintDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo/ConstraintDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppConstraintDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConstraintDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppSliderConstraintDemo.dir/SliderConstraintDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo/SliderConstraintDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo/SliderConstraintDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppSliderConstraintDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SliderConstraintDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppGenericJointDemo.dir/GenericJointDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo/GenericJointDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo/GenericJointDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppGenericJointDemo.dir/Ragdoll.o -c /home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo/Ragdoll.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo/Ragdoll.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppGenericJointDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GenericJointDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/Raytracer",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRaytracer.dir/Raytracer.o -c /home/tensegribuntu/bullet3-2.82/Demos/Raytracer/Raytracer.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Raytracer/Raytracer.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/Raytracer",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRaytracer.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/Raytracer/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Raytracer/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRagdollDemo.dir/RagdollDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo/RagdollDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo/RagdollDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRagdollDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/RagdollDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppForkLiftDemo.dir/ForkLiftDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo/ForkLiftDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo/ForkLiftDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppForkLiftDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ForkLiftDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BasicDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBasicDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/BasicDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BasicDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BasicDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBasicDemo.dir/BasicDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/BasicDemo/BasicDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BasicDemo/BasicDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/FeatherstoneMultiBodyDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppFeatherstoneMultiBodyDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/FeatherstoneMultiBodyDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/FeatherstoneMultiBodyDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/FeatherstoneMultiBodyDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppFeatherstoneMultiBodyDemo.dir/FeatherstoneMultiBodyDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/FeatherstoneMultiBodyDemo/FeatherstoneMultiBodyDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/FeatherstoneMultiBodyDemo/FeatherstoneMultiBodyDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/RollingFrictionDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRollingFrictionDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/RollingFrictionDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/RollingFrictionDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/RollingFrictionDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRollingFrictionDemo.dir/RollingFrictionDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/RollingFrictionDemo/RollingFrictionDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/RollingFrictionDemo/RollingFrictionDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/RaytestDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRaytestDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/RaytestDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/RaytestDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/RaytestDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppRaytestDemo.dir/RaytestDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/RaytestDemo/RaytestDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/RaytestDemo/RaytestDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/VoronoiFractureDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppVoronoiFractureDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/VoronoiFractureDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/VoronoiFractureDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/VoronoiFractureDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppVoronoiFractureDemo.dir/VoronoiFractureDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/VoronoiFractureDemo/VoronoiFractureDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/VoronoiFractureDemo/VoronoiFractureDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppGyroscopicDemo.dir/GyroscopicDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/GyroscopicDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/GyroscopicDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppGyroscopicDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GyroscopicDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppFractureDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppFractureDemo.dir/FractureDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/FractureDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/FractureDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppFractureDemo.dir/btFractureBody.o -c /home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/btFractureBody.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/btFractureBody.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppFractureDemo.dir/btFractureDynamicsWorld.o -c /home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/btFractureDynamicsWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/FractureDemo/btFractureDynamicsWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBox2dDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBox2dDemo.dir/Box2dDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo/Box2dDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Box2dDemo/Box2dDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBspPhysicsDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBspPhysicsDemo.dir/BspDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBspPhysicsDemo.dir/BspLoader.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspLoader.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspLoader.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBspPhysicsDemo.dir/BspConverter.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspConverter.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspConverter.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/MovingConcaveDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppMovingConcaveDemo.dir/ConcavePhysicsDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/MovingConcaveDemo/ConcavePhysicsDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/MovingConcaveDemo/ConcavePhysicsDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppVehicleDemo.dir/heightfield128x128.o -c /home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo/heightfield128x128.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo/heightfield128x128.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppVehicleDemo.dir/VehicleDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo/VehicleDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo/VehicleDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppVehicleDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/VehicleDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/UserCollisionAlgorithm",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppUserCollisionAlgorithm.dir/UserCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/Demos/UserCollisionAlgorithm/UserCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/UserCollisionAlgorithm/UserCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCharacterDemo.dir/DynamicCharacterController.o -c /home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo/DynamicCharacterController.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo/DynamicCharacterController.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCharacterDemo.dir/CharacterDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo/CharacterDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo/CharacterDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCharacterDemo.dir/__/BspDemo/BspConverter.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspConverter.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspConverter.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCharacterDemo.dir/__/BspDemo/BspLoader.o -c /home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspLoader.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/BspDemo/BspLoader.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCharacterDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CharacterDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/SoftDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppSoftBodyDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/SoftDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SoftDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/SoftDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppSoftBodyDemo.dir/SoftDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/SoftDemo/SoftDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SoftDemo/SoftDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CollisionInterfaceDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCollisionInterfaceDemo.dir/CollisionInterfaceDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/CollisionInterfaceDemo/CollisionInterfaceDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CollisionInterfaceDemo/CollisionInterfaceDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CollisionInterfaceDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCollisionInterfaceDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/CollisionInterfaceDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CollisionInterfaceDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppConcaveConvexCastDemo.dir/ConcaveConvexcastDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo/ConcaveConvexcastDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo/ConcaveConvexcastDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppConcaveConvexCastDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveConvexcastDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/SimplexDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppSimplexDemo.dir/SimplexDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/SimplexDemo/SimplexDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SimplexDemo/SimplexDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppMotorDemo.dir/MotorDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo/MotorDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo/MotorDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppMotorDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/DynamicControlDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConvexHullDistance",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppConvexHullDistanceDemo.dir/ConvexHullDistanceDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConvexHullDistance/ConvexHullDistanceDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConvexHullDistance/ConvexHullDistanceDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/DoublePrecisionDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppDoublePrecisionDemo.dir/DoublePrecisionDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/DoublePrecisionDemo/DoublePrecisionDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/DoublePrecisionDemo/DoublePrecisionDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppConcaveDemo.dir/ConcavePhysicsDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo/ConcavePhysicsDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo/ConcavePhysicsDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppConcaveDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/CollisionDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppCollisionDemo.dir/CollisionDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/CollisionDemo/CollisionDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/CollisionDemo/CollisionDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ContinuousConvexCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppContinuousConvexCollisionDemo.dir/ContinuousConvexCollisionDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ContinuousConvexCollision/ContinuousConvexCollisionDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ContinuousConvexCollision/ContinuousConvexCollisionDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppConcaveRayCastDemo.dir/ConcaveRaycastDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo/ConcaveRaycastDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo/ConcaveRaycastDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppConcaveRayCastDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/ConcaveRaycastDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppLinearConvexCastDemo.dir/LinearConvexCastDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo/LinearConvexCastDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo/LinearConvexCastDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppLinearConvexCastDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/GjkConvexCastDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/MultiMaterialDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppMultiMaterialDemo.dir/MultiMaterialDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/MultiMaterialDemo/MultiMaterialDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/MultiMaterialDemo/MultiMaterialDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/MultiMaterialDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppMultiMaterialDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/MultiMaterialDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/MultiMaterialDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/SerializeDemo",
+  "command": "/usr/bin/g++   -DDESERIALIZE_SOFT_BODIES -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppSerializeDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/SerializeDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SerializeDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/SerializeDemo",
+  "command": "/usr/bin/g++   -DDESERIALIZE_SOFT_BODIES -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/AppSerializeDemo.dir/SerializeDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/SerializeDemo/SerializeDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/SerializeDemo/SerializeDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/InternalEdgeDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppInternalEdgeDemo.dir/InternalEdgeDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/InternalEdgeDemo/InternalEdgeDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/InternalEdgeDemo/InternalEdgeDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/InternalEdgeDemo",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppInternalEdgeDemo.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/InternalEdgeDemo/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/InternalEdgeDemo/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/Benchmarks",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBenchmarks.dir/main.o -c /home/tensegribuntu/bullet3-2.82/Demos/Benchmarks/main.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Benchmarks/main.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Demos/Benchmarks",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Demos/OpenGL    -o CMakeFiles/AppBenchmarks.dir/BenchmarkDemo.o -c /home/tensegribuntu/bullet3-2.82/Demos/Benchmarks/BenchmarkDemo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Demos/Benchmarks/BenchmarkDemo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/bestfitobb.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/bestfitobb.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/bestfitobb.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/ConvexBuilder.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/ConvexBuilder.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/ConvexBuilder.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/cd_wavefront.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/cd_wavefront.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/cd_wavefront.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/fitsphere.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/fitsphere.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/fitsphere.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/meshvolume.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/meshvolume.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/meshvolume.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/raytri.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/raytri.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/raytri.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/vlookup.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/vlookup.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/vlookup.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/bestfit.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/bestfit.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/bestfit.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/cd_hull.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/cd_hull.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/cd_hull.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/ConvexDecomposition.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/ConvexDecomposition.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/ConvexDecomposition.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/concavity.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/concavity.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/concavity.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/float_math.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/float_math.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/float_math.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/planetri.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/planetri.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/planetri.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/ConvexDecomposition.dir/splitplane.o -c /home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/splitplane.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition/splitplane.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/HACD",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/HACD    -o CMakeFiles/HACD.dir/hacdGraph.o -c /home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdGraph.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdGraph.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/HACD",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/HACD    -o CMakeFiles/HACD.dir/hacdHACD.o -c /home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdHACD.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdHACD.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/HACD",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/HACD    -o CMakeFiles/HACD.dir/hacdICHull.o -c /home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdICHull.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdICHull.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/HACD",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/HACD    -o CMakeFiles/HACD.dir/hacdManifoldMesh.o -c /home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdManifoldMesh.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/HACD/hacdManifoldMesh.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACT/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils -I/home/tensegribuntu/bullet3-2.82/Extras/ConvexDecomposition    -o CMakeFiles/GIMPACTUtils.dir/btGImpactConvexDecompositionShape.o -c /home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils/btGImpactConvexDecompositionShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/GIMPACTUtils/btGImpactConvexDecompositionShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_checkbox.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_checkbox.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_checkbox.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_panel.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_panel.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_panel.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_spinner.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_spinner.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_spinner.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_treepanel.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_treepanel.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_treepanel.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_column.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_column.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_column.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_radio.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_radio.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_radio.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_statictext.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_statictext.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_statictext.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_window.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_window.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_window.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_add_controls.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_add_controls.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_add_controls.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_commandline.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_commandline.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_commandline.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_list.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_list.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_list.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_rollout.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_rollout.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_rollout.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_string.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_string.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_string.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/quaternion.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/quaternion.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/quaternion.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/algebra3.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/algebra3.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/algebra3.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_bitmap_img_data.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_bitmap_img_data.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_bitmap_img_data.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_control.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_control.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_control.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_listbox.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_listbox.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_listbox.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_rotation.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_rotation.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_rotation.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_textbox.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_textbox.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_textbox.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_bitmaps.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_bitmaps.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_bitmaps.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_edittext.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_edittext.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_edittext.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_mouse_iaction.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_mouse_iaction.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_mouse_iaction.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_scrollbar.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_scrollbar.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_scrollbar.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_translation.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_translation.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_translation.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/arcball.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/arcball.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/arcball.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_button.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_button.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_button.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_filebrowser.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_filebrowser.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_filebrowser.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_node.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_node.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_node.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_separator.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_separator.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_separator.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/glui",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -D_CRT_SECURE_NO_WARNINGS -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/Extras/glui    -o CMakeFiles/GLUI.dir/glui_tree.o -c /home/tensegribuntu/bullet3-2.82/Extras/glui/glui_tree.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/glui/glui_tree.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletFileLoader.dir/bChunk.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bChunk.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bChunk.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletFileLoader.dir/bDNA.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bDNA.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bDNA.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletFileLoader.dir/bFile.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bFile.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bFile.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletFileLoader.dir/btBulletFile.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/btBulletFile.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/btBulletFile.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/BulletXmlWorldImporter.dir/btBulletXmlWorldImporter.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/BulletXmlWorldImporter.dir/string_split.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/string_split.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/string_split.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/BulletXmlWorldImporter.dir/tinyxml.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinyxml.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinyxml.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/BulletXmlWorldImporter.dir/tinystr.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinystr.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinystr.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/BulletXmlWorldImporter.dir/tinyxmlerror.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinyxmlerror.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinyxmlerror.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter    -o CMakeFiles/BulletXmlWorldImporter.dir/tinyxmlparser.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinyxmlparser.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/tinyxmlparser.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader    -o CMakeFiles/BulletWorldImporter.dir/btBulletWorldImporter.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter/btBulletWorldImporter.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter/btBulletWorldImporter.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src -I/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader    -o CMakeFiles/BulletWorldImporter.dir/btWorldImporter.o -c /home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter/btWorldImporter.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletWorldImporter/btWorldImporter.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btSoftBody.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBody.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBody.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btSoftBodyConcaveCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btSoftBodyHelpers.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBodyHelpers.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBodyHelpers.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btSoftBodyRigidBodyCollisionConfiguration.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btSoftRigidCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btSoftRigidDynamicsWorld.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btSoftSoftCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletSoftBody.dir/btDefaultSoftBodySolver.o -c /home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btDefaultSoftBodySolver.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletSoftBody/btDefaultSoftBodySolver.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btAxisSweep3.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btAxisSweep3.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btAxisSweep3.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btBroadphaseProxy.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btDbvt.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btDbvt.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btDbvt.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btDbvtBroadphase.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btDispatcher.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btDispatcher.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btDispatcher.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btMultiSapBroadphase.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btOverlappingPairCache.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btQuantizedBvh.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/BroadphaseCollision/btSimpleBroadphase.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btActivatingCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btBoxBoxCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btBoxBoxDetector.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btCollisionDispatcher.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btCollisionObject.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCollisionObject.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCollisionObject.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btCollisionWorld.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCollisionWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCollisionWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btCompoundCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCompoundCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCompoundCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvexConcaveCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvexConvexAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvexPlaneCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvexPlaneCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvexPlaneCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvex2dConvex2dAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvex2dConvex2dAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btConvex2dConvex2dAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btDefaultCollisionConfiguration.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btEmptyCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btEmptyCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btEmptyCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btGhostObject.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btGhostObject.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btGhostObject.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btHashedSimplePairCache.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btHashedSimplePairCache.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btHashedSimplePairCache.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btInternalEdgeUtility.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btInternalEdgeUtility.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btInternalEdgeUtility.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btManifoldResult.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btManifoldResult.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btManifoldResult.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btSimulationIslandManager.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSimulationIslandManager.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSimulationIslandManager.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btSphereBoxCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSphereBoxCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSphereBoxCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btSphereSphereCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btSphereTriangleCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/btUnionFind.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btUnionFind.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/btUnionFind.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionDispatch/SphereTriangleDetector.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/SphereTriangleDetector.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionDispatch/SphereTriangleDetector.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btBoxShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btBoxShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btBoxShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btBox2dShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btBox2dShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btBox2dShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btBvhTriangleMeshShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btCapsuleShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCapsuleShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCapsuleShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btCollisionShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCollisionShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCollisionShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btCompoundShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCompoundShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCompoundShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConcaveShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConcaveShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConcaveShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConeShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConeShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConeShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexHullShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexHullShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexHullShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexInternalShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexInternalShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexInternalShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexPointCloudShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexPointCloudShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexPointCloudShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexPolyhedron.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexPolyhedron.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexPolyhedron.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConvex2dShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvex2dShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvex2dShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexTriangleMeshShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btCylinderShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCylinderShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCylinderShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btEmptyShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btEmptyShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btEmptyShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btHeightfieldTerrainShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btHeightfieldTerrainShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btHeightfieldTerrainShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btMinkowskiSumShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btMinkowskiSumShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btMinkowskiSumShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btMultimaterialTriangleMeshShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btMultimaterialTriangleMeshShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btMultimaterialTriangleMeshShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btMultiSphereShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btMultiSphereShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btMultiSphereShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btOptimizedBvh.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btOptimizedBvh.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btOptimizedBvh.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btPolyhedralConvexShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btScaledBvhTriangleMeshShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btShapeHull.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btShapeHull.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btShapeHull.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btSphereShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btSphereShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btSphereShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btStaticPlaneShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btStaticPlaneShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btStaticPlaneShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btStridingMeshInterface.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btStridingMeshInterface.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btStridingMeshInterface.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btTetrahedronShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTetrahedronShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTetrahedronShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleBuffer.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleBuffer.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleBuffer.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleCallback.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleCallback.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleCallback.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleIndexVertexArray.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleIndexVertexMaterialArray.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleIndexVertexMaterialArray.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleIndexVertexMaterialArray.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleMesh.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleMesh.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleMesh.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleMeshShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleMeshShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btTriangleMeshShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/CollisionShapes/btUniformScalingShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btUniformScalingShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btUniformScalingShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/btContactProcessing.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btContactProcessing.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btContactProcessing.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/btGenericPoolAllocator.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGenericPoolAllocator.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGenericPoolAllocator.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/btGImpactBvh.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactBvh.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactBvh.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/btGImpactCollisionAlgorithm.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/btGImpactQuantizedBvh.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactQuantizedBvh.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactQuantizedBvh.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/btGImpactShape.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactShape.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btGImpactShape.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/btTriangleShapeEx.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btTriangleShapeEx.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/btTriangleShapeEx.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/gim_box_set.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_box_set.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_box_set.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/gim_contact.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_contact.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_contact.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/gim_memory.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_memory.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_memory.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/Gimpact/gim_tri_collision.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_tri_collision.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/Gimpact/gim_tri_collision.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btContinuousConvexCollision.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btConvexCast.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btConvexCast.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btConvexCast.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkConvexCast.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkConvexCast.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkConvexCast.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkEpa2.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkPairDetector.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkPairDetector.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btGjkPairDetector.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btPersistentManifold.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btRaycastCallback.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btRaycastCallback.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btRaycastCallback.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btSubSimplexConvexCast.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btVoronoiSimplexSolver.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btPolyhedralContactClipping.o -c /home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btPolyhedralContactClipping.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletCollision/NarrowPhaseCollision/btPolyhedralContactClipping.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Character/btKinematicCharacterController.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Character/btKinematicCharacterController.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Character/btKinematicCharacterController.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btConeTwistConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btContactConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btFixedConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btFixedConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btFixedConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btGearConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btGeneric6DofConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btGeneric6DofSpringConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btHinge2Constraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btHingeConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btPoint2PointConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btSequentialImpulseConstraintSolver.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btSliderConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btSolve2LinearConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btTypedConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/ConstraintSolver/btUniversalConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Dynamics/btDiscreteDynamicsWorld.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Dynamics/btRigidBody.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/btRigidBody.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/btRigidBody.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Dynamics/btSimpleDynamicsWorld.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Dynamics/Bullet-C-API.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/Bullet-C-API.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Dynamics/Bullet-C-API.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Vehicle/btRaycastVehicle.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Vehicle/btWheelInfo.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Vehicle/btWheelInfo.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Vehicle/btWheelInfo.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBody.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBody.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBody.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyConstraintSolver.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyConstraintSolver.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyConstraintSolver.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyDynamicsWorld.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyDynamicsWorld.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyDynamicsWorld.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyJointLimitConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyJointLimitConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyJointLimitConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyConstraint.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyConstraint.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyConstraint.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyPoint2Point.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyPoint2Point.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyPoint2Point.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyJointMotor.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyJointMotor.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/Featherstone/btMultiBodyJointMotor.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/MLCPSolvers/btDantzigLCP.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/MLCPSolvers/btDantzigLCP.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/MLCPSolvers/btDantzigLCP.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/BulletDynamics.dir/MLCPSolvers/btMLCPSolver.o -c /home/tensegribuntu/bullet3-2.82/src/BulletDynamics/MLCPSolvers/btMLCPSolver.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/BulletDynamics/MLCPSolvers/btMLCPSolver.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btAlignedAllocator.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btAlignedAllocator.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btAlignedAllocator.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btConvexHull.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btConvexHull.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btConvexHull.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btConvexHullComputer.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btConvexHullComputer.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btConvexHullComputer.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btGeometryUtil.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btGeometryUtil.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btGeometryUtil.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btPolarDecomposition.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btPolarDecomposition.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btPolarDecomposition.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btQuickprof.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btQuickprof.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btQuickprof.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btSerializer.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btSerializer.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btSerializer.cpp"
+},
+{
+  "directory": "/home/tensegribuntu/bullet3-2.82/src/LinearMath",
+  "command": "/usr/bin/g++   -DUSE_GRAPHICAL_BENCHMARK -g3 -gdwarf-2 -D_DEBUG -I/usr/local/include -I/home/tensegribuntu/bullet3-2.82/src    -o CMakeFiles/LinearMath.dir/btVector3.o -c /home/tensegribuntu/bullet3-2.82/src/LinearMath/btVector3.cpp",
+  "file": "/home/tensegribuntu/bullet3-2.82/src/LinearMath/btVector3.cpp"
+}
+]

@@ -85,25 +85,37 @@ void	GyroscopicDemo::initPhysics()
 		false
 	};
 
-	for (int i=0;i<2;i++)
+	for (int i=0;i<1;i++)
 	{
-		btCylinderShapeZ* top  = new btCylinderShapeZ(btVector3(1,1,0.125));
-		btCapsuleShapeZ* pin  = new btCapsuleShapeZ(0.05,1.5);
-		top->setMargin(0.01);
-		pin->setMargin(0.01);
+		// btCylinderShapeZ* top  = new btCylinderShapeZ(btVector3(1,1,0.125));
+		// btCapsuleShapeZ* pin  = new btCapsuleShapeZ(0.05,1.5);
+		btBoxShape* box = new btBoxShape( btVector3(1, 1, 1) );
+
+		//top->setMargin(0.01);
+		box->setMargin(0.01);
+		//pin->setMargin(0.01);
 		btCompoundShape* compound = new btCompoundShape();
-		compound->addChildShape(btTransform::getIdentity(),top);
-		compound->addChildShape(btTransform::getIdentity(),pin);
+		compound->addChildShape(btTransform::getIdentity(),box);
+		//compound->addChildShape(btTransform::getIdentity(),pin);
 		btVector3 localInertia;
-		top->calculateLocalInertia(1,localInertia);
+		//top->calculateLocalInertia(1,localInertia);
+		box->calculateLocalInertia(1, localInertia);
+
 		btRigidBody* body = new btRigidBody(1,0,compound,localInertia);
+
+
 		btTransform tr;
 		tr.setIdentity();
 		tr.setOrigin(positions[i]);
 		body->setCenterOfMassTransform(tr);
+                //Set Angular velocity of the box
 		body->setAngularVelocity(btVector3(0,0,10));
+                //Set Linear velocity of the box
 		body->setLinearVelocity(btVector3(0,.2,0));
 		body->setFriction(btSqrt(1));
+
+
+
 		m_dynamicsWorld->addRigidBody(body);
 		if (gyro[i])
 		{

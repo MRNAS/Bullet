@@ -1,0 +1,559 @@
+Scanning dependencies of target BulletCollision
+[  1%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btAxisSweep3.o
+[  1%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btBroadphaseProxy.o
+[  1%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btCollisionAlgorithm.o
+[  2%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btDbvt.o
+[  2%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btDbvtBroadphase.o
+[  2%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btDispatcher.o
+[  3%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btMultiSapBroadphase.o
+[  3%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btOverlappingPairCache.o
+[  3%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btQuantizedBvh.o
+[  4%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/BroadphaseCollision/btSimpleBroadphase.o
+[  4%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btActivatingCollisionAlgorithm.o
+[  4%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btBoxBoxCollisionAlgorithm.o
+[  5%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.o
+[  5%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btBoxBoxDetector.o
+[  5%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btCollisionDispatcher.o
+[  6%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btCollisionObject.o
+[  6%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btCollisionWorld.o
+[  6%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btCompoundCollisionAlgorithm.o
+[  6%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.o
+[  7%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvexConcaveCollisionAlgorithm.o
+[  7%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvexConvexAlgorithm.o
+[  7%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvexPlaneCollisionAlgorithm.o
+[  8%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btConvex2dConvex2dAlgorithm.o
+[  8%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btDefaultCollisionConfiguration.o
+[  8%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btEmptyCollisionAlgorithm.o
+[  9%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btGhostObject.o
+[  9%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btHashedSimplePairCache.o
+[  9%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btInternalEdgeUtility.o
+[ 10%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btManifoldResult.o
+[ 10%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btSimulationIslandManager.o
+[ 10%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btSphereBoxCollisionAlgorithm.o
+[ 11%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btSphereSphereCollisionAlgorithm.o
+[ 11%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btSphereTriangleCollisionAlgorithm.o
+[ 11%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/btUnionFind.o
+[ 12%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionDispatch/SphereTriangleDetector.o
+[ 12%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btBoxShape.o
+[ 12%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btBox2dShape.o
+[ 12%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btBvhTriangleMeshShape.o
+[ 13%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btCapsuleShape.o
+[ 13%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btCollisionShape.o
+[ 13%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btCompoundShape.o
+/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCompoundShape.cpp: In member function ‘void btCompoundShape::addChildShape(const btTransform&, btCollisionShape*)’:
+/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCompoundShape.cpp:81:58: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+   child.m_node = m_dynamicAabbTree->insert(bounds,(void*)index);
+                                                          ^
+/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCompoundShape.cpp: In member function ‘void btCompoundShape::createAabbTreeFromChildren()’:
+/home/tensegribuntu/bullet3-2.82/src/BulletCollision/CollisionShapes/btCompoundShape.cpp:315:68: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+             child.m_node = m_dynamicAabbTree->insert(bounds,(void*)index);
+                                                                    ^
+[ 14%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConcaveShape.o
+[ 14%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConeShape.o
+[ 14%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexHullShape.o
+[ 15%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexInternalShape.o
+[ 15%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexPointCloudShape.o
+[ 15%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexPolyhedron.o
+[ 16%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexShape.o
+[ 16%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConvex2dShape.o
+[ 16%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btConvexTriangleMeshShape.o
+[ 17%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btCylinderShape.o
+[ 17%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btEmptyShape.o
+[ 17%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btHeightfieldTerrainShape.o
+[ 18%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btMinkowskiSumShape.o
+[ 18%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btMultimaterialTriangleMeshShape.o
+[ 18%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btMultiSphereShape.o
+[ 19%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btOptimizedBvh.o
+[ 19%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btPolyhedralConvexShape.o
+[ 19%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btScaledBvhTriangleMeshShape.o
+[ 19%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btShapeHull.o
+[ 20%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btSphereShape.o
+[ 20%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btStaticPlaneShape.o
+[ 20%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btStridingMeshInterface.o
+[ 21%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btTetrahedronShape.o
+[ 21%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleBuffer.o
+[ 21%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleCallback.o
+[ 22%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleIndexVertexArray.o
+[ 22%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleIndexVertexMaterialArray.o
+[ 22%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleMesh.o
+[ 23%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btTriangleMeshShape.o
+[ 23%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/CollisionShapes/btUniformScalingShape.o
+[ 23%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/btContactProcessing.o
+[ 24%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/btGenericPoolAllocator.o
+[ 24%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/btGImpactBvh.o
+[ 24%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/btGImpactCollisionAlgorithm.o
+[ 25%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/btGImpactQuantizedBvh.o
+[ 25%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/btGImpactShape.o
+[ 25%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/btTriangleShapeEx.o
+[ 25%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/gim_box_set.o
+[ 26%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/gim_contact.o
+[ 26%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/gim_memory.o
+[ 26%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/Gimpact/gim_tri_collision.o
+[ 27%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btContinuousConvexCollision.o
+[ 27%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btConvexCast.o
+[ 27%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkConvexCast.o
+[ 28%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkEpa2.o
+[ 28%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.o
+[ 28%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btGjkPairDetector.o
+[ 29%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.o
+[ 29%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btPersistentManifold.o
+[ 29%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btRaycastCallback.o
+[ 30%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btSubSimplexConvexCast.o
+[ 30%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btVoronoiSimplexSolver.o
+[ 30%] Building CXX object src/BulletCollision/CMakeFiles/BulletCollision.dir/NarrowPhaseCollision/btPolyhedralContactClipping.o
+Linking CXX static library libBulletCollision.a
+[ 30%] Built target BulletCollision
+Scanning dependencies of target BulletDynamics
+[ 31%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Character/btKinematicCharacterController.o
+[ 31%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btConeTwistConstraint.o
+[ 31%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btContactConstraint.o
+[ 31%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btFixedConstraint.o
+[ 32%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btGearConstraint.o
+[ 32%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btGeneric6DofConstraint.o
+[ 32%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btGeneric6DofSpringConstraint.o
+[ 33%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btHinge2Constraint.o
+[ 33%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btHingeConstraint.o
+[ 33%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btPoint2PointConstraint.o
+[ 34%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btSequentialImpulseConstraintSolver.o
+[ 34%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btSliderConstraint.o
+[ 34%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btSolve2LinearConstraint.o
+[ 35%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btTypedConstraint.o
+[ 35%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/ConstraintSolver/btUniversalConstraint.o
+[ 35%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Dynamics/btDiscreteDynamicsWorld.o
+[ 36%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Dynamics/btRigidBody.o
+[ 36%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Dynamics/btSimpleDynamicsWorld.o
+[ 36%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Dynamics/Bullet-C-API.o
+[ 37%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Vehicle/btRaycastVehicle.o
+[ 37%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Vehicle/btWheelInfo.o
+[ 37%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBody.o
+[ 37%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyConstraintSolver.o
+[ 38%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyDynamicsWorld.o
+[ 38%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyJointLimitConstraint.o
+[ 38%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyConstraint.o
+[ 39%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyPoint2Point.o
+[ 39%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/Featherstone/btMultiBodyJointMotor.o
+[ 39%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/MLCPSolvers/btDantzigLCP.o
+[ 40%] Building CXX object src/BulletDynamics/CMakeFiles/BulletDynamics.dir/MLCPSolvers/btMLCPSolver.o
+Linking CXX static library libBulletDynamics.a
+[ 40%] Built target BulletDynamics
+Scanning dependencies of target LinearMath
+[ 40%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btAlignedAllocator.o
+[ 41%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btConvexHull.o
+[ 41%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btConvexHullComputer.o
+[ 41%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btGeometryUtil.o
+[ 42%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btPolarDecomposition.o
+[ 42%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btQuickprof.o
+[ 42%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btSerializer.o
+[ 43%] Building CXX object src/LinearMath/CMakeFiles/LinearMath.dir/btVector3.o
+Linking CXX static library libLinearMath.a
+[ 43%] Built target LinearMath
+Scanning dependencies of target AppHelloWorld
+[ 43%] Building CXX object Demos/HelloWorld/CMakeFiles/AppHelloWorld.dir/HelloWorld.o
+Linking CXX executable AppHelloWorld
+[ 43%] Built target AppHelloWorld
+Scanning dependencies of target OpenGLSupport
+[ 43%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GLDebugFont.o
+[ 43%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GL_DialogDynamicsWorld.o
+[ 44%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GL_DialogWindow.o
+[ 44%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GL_ShapeDrawer.o
+[ 44%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GL_Simplex1to4.o
+[ 45%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GLDebugDrawer.o
+[ 45%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/RenderTexture.o
+[ 45%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/DemoApplication.o
+[ 46%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GlutDemoApplication.o
+[ 46%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/GlutStuff.o
+[ 46%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/stb_image.o
+[ 47%] Building CXX object Demos/OpenGL/CMakeFiles/OpenGLSupport.dir/Win32DemoApplication.o
+Linking CXX static library libOpenGLSupport.a
+[ 47%] Built target OpenGLSupport
+Scanning dependencies of target BulletFileLoader
+[ 47%] Building CXX object Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/bChunk.o
+[ 47%] Building CXX object Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/bDNA.o
+[ 48%] Building CXX object Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/bFile.o
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bFile.cpp: In member function ‘int bParse::bFile::resolvePointersStructRecursive(char*, int, int, int)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bFile.cpp:1273:29: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘void*’ [-Wformat=]
+       printf("%d ", array[a]);
+                             ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bFile.cpp:1291:23: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘void*’ [-Wformat=]
+      printf("%d ", ptr);
+                       ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bFile.cpp: In member function ‘void bParse::bFile::resolvePointers(int)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletFileLoader/bFile.cpp:1472:58: warning: format ‘%d’ expects argument of type ‘int’, but argument 3 has type ‘void*’ [-Wformat=]
+      printf(" <%s pointer=%d>\n",oldType,dataChunk.oldPtr);
+                                                          ^
+[ 48%] Building CXX object Extras/Serialize/BulletFileLoader/CMakeFiles/BulletFileLoader.dir/btBulletFile.o
+Linking CXX static library libBulletFileLoader.a
+[ 48%] Built target BulletFileLoader
+Scanning dependencies of target BulletWorldImporter
+[ 48%] Building CXX object Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/btBulletWorldImporter.o
+[ 48%] Building CXX object Extras/Serialize/BulletWorldImporter/CMakeFiles/BulletWorldImporter.dir/btWorldImporter.o
+Linking CXX static library libBulletWorldImporter.a
+[ 48%] Built target BulletWorldImporter
+Scanning dependencies of target ConvexDecomposition
+[ 48%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/bestfitobb.o
+[ 49%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/ConvexBuilder.o
+[ 49%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/cd_wavefront.o
+[ 49%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/fitsphere.o
+[ 50%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/meshvolume.o
+[ 50%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/raytri.o
+[ 50%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/vlookup.o
+[ 51%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/bestfit.o
+[ 51%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/cd_hull.o
+[ 51%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/ConvexDecomposition.o
+[ 52%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/concavity.o
+[ 52%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/float_math.o
+[ 52%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/planetri.o
+[ 52%] Building CXX object Extras/ConvexDecomposition/CMakeFiles/ConvexDecomposition.dir/splitplane.o
+Linking CXX static library libConvexDecomposition.a
+[ 52%] Built target ConvexDecomposition
+Scanning dependencies of target HACD
+[ 52%] Building CXX object Extras/HACD/CMakeFiles/HACD.dir/hacdGraph.o
+[ 53%] Building CXX object Extras/HACD/CMakeFiles/HACD.dir/hacdHACD.o
+[ 53%] Building CXX object Extras/HACD/CMakeFiles/HACD.dir/hacdICHull.o
+[ 53%] Building CXX object Extras/HACD/CMakeFiles/HACD.dir/hacdManifoldMesh.o
+Linking CXX static library libHACD.a
+[ 53%] Built target HACD
+Scanning dependencies of target GIMPACTUtils
+[ 54%] Building CXX object Extras/GIMPACTUtils/CMakeFiles/GIMPACTUtils.dir/btGImpactConvexDecompositionShape.o
+Linking CXX static library libGIMPACTUtils.a
+[ 54%] Built target GIMPACTUtils
+Scanning dependencies of target GLUI
+[ 54%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_checkbox.o
+[ 54%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_panel.o
+[ 55%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_spinner.o
+[ 55%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_treepanel.o
+[ 55%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui.o
+[ 56%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_column.o
+[ 56%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_radio.o
+[ 56%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_statictext.o
+[ 57%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_window.o
+[ 57%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_add_controls.o
+[ 57%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_commandline.o
+[ 58%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_list.o
+[ 58%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_rollout.o
+[ 58%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_string.o
+[ 59%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/quaternion.o
+[ 59%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/algebra3.o
+[ 59%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_bitmap_img_data.o
+[ 59%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_control.o
+[ 60%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_listbox.o
+[ 60%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_rotation.o
+[ 60%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_textbox.o
+[ 61%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_bitmaps.o
+[ 61%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_edittext.o
+[ 61%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_mouse_iaction.o
+[ 62%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_scrollbar.o
+[ 62%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_translation.o
+[ 62%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/arcball.o
+[ 63%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_button.o
+[ 63%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_filebrowser.o
+[ 63%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_node.o
+[ 64%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_separator.o
+[ 64%] Building CXX object Extras/glui/CMakeFiles/GLUI.dir/glui_tree.o
+Linking CXX static library libGLUI.a
+[ 64%] Built target GLUI
+Scanning dependencies of target BulletSoftBody
+[ 64%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBody.o
+[ 65%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBodyConcaveCollisionAlgorithm.o
+[ 65%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBodyHelpers.o
+[ 65%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftBodyRigidBodyCollisionConfiguration.o
+[ 66%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftRigidCollisionAlgorithm.o
+[ 66%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftRigidDynamicsWorld.o
+[ 66%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btSoftSoftCollisionAlgorithm.o
+[ 67%] Building CXX object src/BulletSoftBody/CMakeFiles/BulletSoftBody.dir/btDefaultSoftBodySolver.o
+Linking CXX static library libBulletSoftBody.a
+[ 67%] Built target BulletSoftBody
+Scanning dependencies of target AppAllBulletDemos
+[ 67%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/Main.o
+[ 67%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/DemoEntries.o
+[ 67%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/CcdPhysicsDemo/CcdPhysicsDemo.o
+[ 68%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/BasicDemo/BasicDemo.o
+[ 68%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/BspDemo/BspDemo.o
+[ 68%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/BspDemo/BspConverter.o
+[ 69%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/BspDemo/BspLoader.o
+[ 69%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/DynamicControlDemo/MotorDemo.o
+[ 69%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/ConcaveDemo/ConcavePhysicsDemo.o
+[ 70%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/ConcaveRaycastDemo/ConcaveRaycastDemo.o
+[ 70%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/ConcaveConvexcastDemo/ConcaveConvexcastDemo.o
+[ 70%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/ConvexDecompositionDemo/ConvexDecompositionDemo.o
+[ 71%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/SliderConstraintDemo/SliderConstraintDemo.o
+[ 71%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/RagdollDemo/RagdollDemo.o
+[ 71%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/GimpactTestDemo/GimpactTestDemo.o
+[ 72%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/Raytracer/Raytracer.o
+[ 72%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/GjkConvexCastDemo/LinearConvexCastDemo.o
+[ 72%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/ForkLiftDemo/ForkLiftDemo.o
+[ 73%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/SoftDemo/SoftDemo.o
+[ 73%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/ConstraintDemo/ConstraintDemo.o
+[ 73%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/Benchmarks/BenchmarkDemo.o
+[ 73%] Building CXX object Demos/AllBulletDemos/CMakeFiles/AppAllBulletDemos.dir/__/Box2dDemo/Box2dDemo.o
+Linking CXX executable AppAllBulletDemos
+[ 73%] Built target AppAllBulletDemos
+Scanning dependencies of target AppConvexDecompositionDemo
+[ 74%] Building CXX object Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/main.o
+[ 74%] Building CXX object Demos/ConvexDecompositionDemo/CMakeFiles/AppConvexDecompositionDemo.dir/ConvexDecompositionDemo.o
+Linking CXX executable AppConvexDecompositionDemo
+[ 74%] Built target AppConvexDecompositionDemo
+Scanning dependencies of target AppCcdPhysicsDemo
+[ 75%] Building CXX object Demos/CcdPhysicsDemo/CMakeFiles/AppCcdPhysicsDemo.dir/main.o
+[ 75%] Building CXX object Demos/CcdPhysicsDemo/CMakeFiles/AppCcdPhysicsDemo.dir/CcdPhysicsDemo.o
+Linking CXX executable AppCcdPhysicsDemo
+[ 75%] Built target AppCcdPhysicsDemo
+Scanning dependencies of target BulletXmlWorldImporter
+[ 75%] Building CXX object Extras/Serialize/BulletXmlWorldImporter/CMakeFiles/BulletXmlWorldImporter.dir/btBulletXmlWorldImporter.o
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::deSerializeConvexHullShapeData(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:133:54: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    (targetdata).argname= (pointertype) (int) atof(txt);\
+                                                      ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:236:2: note: in expansion of macro ‘SET_POINTER_VALUE’
+  SET_POINTER_VALUE(pParent,*convexHullData,m_unscaledPointsFloatPtr,btVector3FloatData*);
+  ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:133:54: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    (targetdata).argname= (pointertype) (int) atof(txt);\
+                                                      ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:237:2: note: in expansion of macro ‘SET_POINTER_VALUE’
+  SET_POINTER_VALUE(pParent,*convexHullData,m_unscaledPointsDoublePtr,btVector3DoubleData*);
+  ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:241:32: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  m_pointerLookup.insert((void*)ptr,convexHullData);
+                                ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::deSerializeCompoundShapeChildData(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:265:86: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    compoundChildArrayPtr->at(i).m_childShape = (btCollisionShapeData*) (int) atof(txt);
+                                                                                      ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:295:33: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+   m_pointerLookup.insert((void*)ptr,cd);
+                                 ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::deSerializeCompoundShapeData(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:322:78: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    compoundData->m_childShapePtr = (btCompoundShapeChildData*) (int) atof(txt);
+                                                                              ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:331:32: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  m_pointerLookup.insert((void*)ptr,compoundData);
+                                ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::deSerializeStaticPlaneShapeData(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:351:32: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  m_pointerLookup.insert((void*)ptr,planeData);
+                                ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::deSerializeConvexInternalShapeData(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:385:32: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  m_pointerLookup.insert((void*)ptr,convexShape);
+                                ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::deSerializeGeneric6DofConstraintData(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:133:54: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    (targetdata).argname= (pointertype) (int) atof(txt);\
+                                                      ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:416:3: note: in expansion of macro ‘SET_POINTER_VALUE’
+   SET_POINTER_VALUE(n,dof6Data->m_typeConstraintData,m_rbA,btRigidBodyData*);
+   ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:133:54: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    (targetdata).argname= (pointertype) (int) atof(txt);\
+                                                      ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:417:3: note: in expansion of macro ‘SET_POINTER_VALUE’
+   SET_POINTER_VALUE(n,dof6Data->m_typeConstraintData,m_rbB,btRigidBodyData*);
+   ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:442:32: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  m_pointerLookup.insert((void*)ptr,dof6Data);
+                                ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::deSerializeRigidBodyFloatData(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:133:54: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    (targetdata).argname= (pointertype) (int) atof(txt);\
+                                                      ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:460:3: note: in expansion of macro ‘SET_POINTER_VALUE’
+   SET_POINTER_VALUE(n,rbData->m_collisionObjectData,m_collisionShape, void*);
+   ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:509:32: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  m_pointerLookup.insert((void*)ptr,rbData);
+                                ^
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp: In member function ‘void btBulletXmlWorldImporter::auto_serialize_root_level_children(TiXmlNode*)’:
+/home/tensegribuntu/bullet3-2.82/Extras/Serialize/BulletXmlWorldImporter/btBulletXmlWorldImporter.cpp:654:35: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+     m_pointerLookup.insert((void*)ptr,vectors);
+                                   ^
+[ 76%] Building CXX object Extras/Serialize/BulletXmlWorldImporter/CMakeFiles/BulletXmlWorldImporter.dir/string_split.o
+[ 76%] Building CXX object Extras/Serialize/BulletXmlWorldImporter/CMakeFiles/BulletXmlWorldImporter.dir/tinyxml.o
+[ 76%] Building CXX object Extras/Serialize/BulletXmlWorldImporter/CMakeFiles/BulletXmlWorldImporter.dir/tinystr.o
+[ 77%] Building CXX object Extras/Serialize/BulletXmlWorldImporter/CMakeFiles/BulletXmlWorldImporter.dir/tinyxmlerror.o
+[ 77%] Building CXX object Extras/Serialize/BulletXmlWorldImporter/CMakeFiles/BulletXmlWorldImporter.dir/tinyxmlparser.o
+Linking CXX static library libBulletXmlWorldImporter.a
+[ 77%] Built target BulletXmlWorldImporter
+Scanning dependencies of target AppBulletXmlImportDemo
+[ 77%] Building CXX object Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/main.o
+[ 77%] Building CXX object Demos/BulletXmlImportDemo/CMakeFiles/AppBulletXmlImportDemo.dir/BulletXmlImportDemo.o
+Linking CXX executable AppBulletXmlImportDemo
+[ 77%] Built target AppBulletXmlImportDemo
+Scanning dependencies of target AppConstraintDemo
+[ 78%] Building CXX object Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/ConstraintDemo.o
+[ 78%] Building CXX object Demos/ConstraintDemo/CMakeFiles/AppConstraintDemo.dir/main.o
+Linking CXX executable AppConstraintDemo
+[ 78%] Built target AppConstraintDemo
+Scanning dependencies of target AppSliderConstraintDemo
+[ 79%] Building CXX object Demos/SliderConstraintDemo/CMakeFiles/AppSliderConstraintDemo.dir/SliderConstraintDemo.o
+[ 79%] Building CXX object Demos/SliderConstraintDemo/CMakeFiles/AppSliderConstraintDemo.dir/main.o
+Linking CXX executable AppSliderConstraintDemo
+[ 79%] Built target AppSliderConstraintDemo
+Scanning dependencies of target AppGenericJointDemo
+[ 79%] Building CXX object Demos/GenericJointDemo/CMakeFiles/AppGenericJointDemo.dir/GenericJointDemo.o
+[ 80%] Building CXX object Demos/GenericJointDemo/CMakeFiles/AppGenericJointDemo.dir/Ragdoll.o
+[ 80%] Building CXX object Demos/GenericJointDemo/CMakeFiles/AppGenericJointDemo.dir/main.o
+Linking CXX executable AppGenericJointDemo
+[ 80%] Built target AppGenericJointDemo
+Scanning dependencies of target AppRaytracer
+[ 80%] Building CXX object Demos/Raytracer/CMakeFiles/AppRaytracer.dir/Raytracer.o
+[ 81%] Building CXX object Demos/Raytracer/CMakeFiles/AppRaytracer.dir/main.o
+Linking CXX executable AppRaytracer
+[ 81%] Built target AppRaytracer
+Scanning dependencies of target AppRagdollDemo
+[ 81%] Building CXX object Demos/RagdollDemo/CMakeFiles/AppRagdollDemo.dir/RagdollDemo.o
+[ 81%] Building CXX object Demos/RagdollDemo/CMakeFiles/AppRagdollDemo.dir/main.o
+Linking CXX executable AppRagdollDemo
+[ 81%] Built target AppRagdollDemo
+Scanning dependencies of target AppForkLiftDemo
+[ 81%] Building CXX object Demos/ForkLiftDemo/CMakeFiles/AppForkLiftDemo.dir/ForkLiftDemo.o
+[ 82%] Building CXX object Demos/ForkLiftDemo/CMakeFiles/AppForkLiftDemo.dir/main.o
+Linking CXX executable AppForkLiftDemo
+[ 82%] Built target AppForkLiftDemo
+Scanning dependencies of target AppBasicDemo
+[ 83%] Building CXX object Demos/BasicDemo/CMakeFiles/AppBasicDemo.dir/main.o
+[ 83%] Building CXX object Demos/BasicDemo/CMakeFiles/AppBasicDemo.dir/BasicDemo.o
+Linking CXX executable AppBasicDemo
+[ 83%] Built target AppBasicDemo
+Scanning dependencies of target AppFeatherstoneMultiBodyDemo
+[ 83%] Building CXX object Demos/FeatherstoneMultiBodyDemo/CMakeFiles/AppFeatherstoneMultiBodyDemo.dir/main.o
+[ 83%] Building CXX object Demos/FeatherstoneMultiBodyDemo/CMakeFiles/AppFeatherstoneMultiBodyDemo.dir/FeatherstoneMultiBodyDemo.o
+Linking CXX executable AppFeatherstoneMultiBodyDemo
+[ 83%] Built target AppFeatherstoneMultiBodyDemo
+Scanning dependencies of target AppRollingFrictionDemo
+[ 83%] Building CXX object Demos/RollingFrictionDemo/CMakeFiles/AppRollingFrictionDemo.dir/main.o
+[ 83%] Building CXX object Demos/RollingFrictionDemo/CMakeFiles/AppRollingFrictionDemo.dir/RollingFrictionDemo.o
+Linking CXX executable AppRollingFrictionDemo
+[ 83%] Built target AppRollingFrictionDemo
+Scanning dependencies of target AppRaytestDemo
+[ 84%] Building CXX object Demos/RaytestDemo/CMakeFiles/AppRaytestDemo.dir/main.o
+[ 84%] Building CXX object Demos/RaytestDemo/CMakeFiles/AppRaytestDemo.dir/RaytestDemo.o
+Linking CXX executable AppRaytestDemo
+[ 84%] Built target AppRaytestDemo
+Scanning dependencies of target AppVoronoiFractureDemo
+[ 84%] Building CXX object Demos/VoronoiFractureDemo/CMakeFiles/AppVoronoiFractureDemo.dir/main.o
+[ 84%] Building CXX object Demos/VoronoiFractureDemo/CMakeFiles/AppVoronoiFractureDemo.dir/VoronoiFractureDemo.o
+Linking CXX executable AppVoronoiFractureDemo
+[ 84%] Built target AppVoronoiFractureDemo
+Scanning dependencies of target AppGyroscopicDemo
+[ 84%] Building CXX object Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/GyroscopicDemo.o
+[ 85%] Building CXX object Demos/GyroscopicDemo/CMakeFiles/AppGyroscopicDemo.dir/main.o
+Linking CXX executable AppGyroscopicDemo
+[ 85%] Built target AppGyroscopicDemo
+Scanning dependencies of target AppFractureDemo
+[ 85%] Building CXX object Demos/FractureDemo/CMakeFiles/AppFractureDemo.dir/main.o
+[ 85%] Building CXX object Demos/FractureDemo/CMakeFiles/AppFractureDemo.dir/FractureDemo.o
+[ 86%] Building CXX object Demos/FractureDemo/CMakeFiles/AppFractureDemo.dir/btFractureBody.o
+[ 86%] Building CXX object Demos/FractureDemo/CMakeFiles/AppFractureDemo.dir/btFractureDynamicsWorld.o
+Linking CXX executable AppFractureDemo
+[ 86%] Built target AppFractureDemo
+Scanning dependencies of target AppBox2dDemo
+[ 86%] Building CXX object Demos/Box2dDemo/CMakeFiles/AppBox2dDemo.dir/main.o
+[ 86%] Building CXX object Demos/Box2dDemo/CMakeFiles/AppBox2dDemo.dir/Box2dDemo.o
+Linking CXX executable AppBox2dDemo
+[ 86%] Built target AppBox2dDemo
+Scanning dependencies of target AppBspPhysicsDemo
+[ 87%] Building CXX object Demos/BspDemo/CMakeFiles/AppBspPhysicsDemo.dir/main.o
+[ 87%] Building CXX object Demos/BspDemo/CMakeFiles/AppBspPhysicsDemo.dir/BspDemo.o
+[ 87%] Building CXX object Demos/BspDemo/CMakeFiles/AppBspPhysicsDemo.dir/BspLoader.o
+[ 88%] Building CXX object Demos/BspDemo/CMakeFiles/AppBspPhysicsDemo.dir/BspConverter.o
+Linking CXX executable AppBspPhysicsDemo
+[ 88%] Built target AppBspPhysicsDemo
+Scanning dependencies of target AppMovingConcaveDemo
+[ 88%] Building CXX object Demos/MovingConcaveDemo/CMakeFiles/AppMovingConcaveDemo.dir/ConcavePhysicsDemo.o
+Linking CXX executable AppMovingConcaveDemo
+[ 88%] Built target AppMovingConcaveDemo
+Scanning dependencies of target AppVehicleDemo
+[ 88%] Building CXX object Demos/VehicleDemo/CMakeFiles/AppVehicleDemo.dir/heightfield128x128.o
+[ 89%] Building CXX object Demos/VehicleDemo/CMakeFiles/AppVehicleDemo.dir/VehicleDemo.o
+[ 89%] Building CXX object Demos/VehicleDemo/CMakeFiles/AppVehicleDemo.dir/main.o
+Linking CXX executable AppVehicleDemo
+[ 89%] Built target AppVehicleDemo
+Scanning dependencies of target AppUserCollisionAlgorithm
+[ 89%] Building CXX object Demos/UserCollisionAlgorithm/CMakeFiles/AppUserCollisionAlgorithm.dir/UserCollisionAlgorithm.o
+Linking CXX executable AppUserCollisionAlgorithm
+[ 89%] Built target AppUserCollisionAlgorithm
+Scanning dependencies of target AppCharacterDemo
+[ 89%] Building CXX object Demos/CharacterDemo/CMakeFiles/AppCharacterDemo.dir/DynamicCharacterController.o
+[ 90%] Building CXX object Demos/CharacterDemo/CMakeFiles/AppCharacterDemo.dir/CharacterDemo.o
+[ 90%] Building CXX object Demos/CharacterDemo/CMakeFiles/AppCharacterDemo.dir/__/BspDemo/BspConverter.o
+[ 90%] Building CXX object Demos/CharacterDemo/CMakeFiles/AppCharacterDemo.dir/__/BspDemo/BspLoader.o
+[ 90%] Building CXX object Demos/CharacterDemo/CMakeFiles/AppCharacterDemo.dir/main.o
+Linking CXX executable AppCharacterDemo
+[ 90%] Built target AppCharacterDemo
+Scanning dependencies of target AppSoftBodyDemo
+[ 90%] Building CXX object Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/main.o
+[ 91%] Building CXX object Demos/SoftDemo/CMakeFiles/AppSoftBodyDemo.dir/SoftDemo.o
+Linking CXX executable AppSoftBodyDemo
+[ 91%] Built target AppSoftBodyDemo
+Scanning dependencies of target AppCollisionInterfaceDemo
+[ 91%] Building CXX object Demos/CollisionInterfaceDemo/CMakeFiles/AppCollisionInterfaceDemo.dir/CollisionInterfaceDemo.o
+[ 91%] Building CXX object Demos/CollisionInterfaceDemo/CMakeFiles/AppCollisionInterfaceDemo.dir/main.o
+Linking CXX executable AppCollisionInterfaceDemo
+[ 91%] Built target AppCollisionInterfaceDemo
+Scanning dependencies of target AppConcaveConvexCastDemo
+[ 92%] Building CXX object Demos/ConcaveConvexcastDemo/CMakeFiles/AppConcaveConvexCastDemo.dir/ConcaveConvexcastDemo.o
+[ 92%] Building CXX object Demos/ConcaveConvexcastDemo/CMakeFiles/AppConcaveConvexCastDemo.dir/main.o
+Linking CXX executable AppConcaveConvexCastDemo
+[ 92%] Built target AppConcaveConvexCastDemo
+Scanning dependencies of target AppSimplexDemo
+[ 92%] Building CXX object Demos/SimplexDemo/CMakeFiles/AppSimplexDemo.dir/SimplexDemo.o
+Linking CXX executable AppSimplexDemo
+[ 92%] Built target AppSimplexDemo
+Scanning dependencies of target AppMotorDemo
+[ 93%] Building CXX object Demos/DynamicControlDemo/CMakeFiles/AppMotorDemo.dir/MotorDemo.o
+[ 93%] Building CXX object Demos/DynamicControlDemo/CMakeFiles/AppMotorDemo.dir/main.o
+Linking CXX executable AppMotorDemo
+[ 93%] Built target AppMotorDemo
+Scanning dependencies of target AppConvexHullDistanceDemo
+[ 93%] Building CXX object Demos/ConvexHullDistance/CMakeFiles/AppConvexHullDistanceDemo.dir/ConvexHullDistanceDemo.o
+Linking CXX executable AppConvexHullDistanceDemo
+[ 93%] Built target AppConvexHullDistanceDemo
+Scanning dependencies of target AppDoublePrecisionDemo
+[ 94%] Building CXX object Demos/DoublePrecisionDemo/CMakeFiles/AppDoublePrecisionDemo.dir/DoublePrecisionDemo.o
+Linking CXX executable AppDoublePrecisionDemo
+[ 94%] Built target AppDoublePrecisionDemo
+Scanning dependencies of target AppConcaveDemo
+[ 94%] Building CXX object Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/ConcavePhysicsDemo.o
+[ 95%] Building CXX object Demos/ConcaveDemo/CMakeFiles/AppConcaveDemo.dir/main.o
+Linking CXX executable AppConcaveDemo
+[ 95%] Built target AppConcaveDemo
+Scanning dependencies of target AppCollisionDemo
+[ 96%] Building CXX object Demos/CollisionDemo/CMakeFiles/AppCollisionDemo.dir/CollisionDemo.o
+Linking CXX executable AppCollisionDemo
+[ 96%] Built target AppCollisionDemo
+Scanning dependencies of target AppContinuousConvexCollisionDemo
+[ 96%] Building CXX object Demos/ContinuousConvexCollision/CMakeFiles/AppContinuousConvexCollisionDemo.dir/ContinuousConvexCollisionDemo.o
+Linking CXX executable AppContinuousConvexCollisionDemo
+[ 96%] Built target AppContinuousConvexCollisionDemo
+Scanning dependencies of target AppConcaveRayCastDemo
+[ 96%] Building CXX object Demos/ConcaveRaycastDemo/CMakeFiles/AppConcaveRayCastDemo.dir/ConcaveRaycastDemo.o
+[ 96%] Building CXX object Demos/ConcaveRaycastDemo/CMakeFiles/AppConcaveRayCastDemo.dir/main.o
+Linking CXX executable AppConcaveRayCastDemo
+[ 96%] Built target AppConcaveRayCastDemo
+Scanning dependencies of target AppLinearConvexCastDemo
+[ 96%] Building CXX object Demos/GjkConvexCastDemo/CMakeFiles/AppLinearConvexCastDemo.dir/LinearConvexCastDemo.o
+[ 96%] Building CXX object Demos/GjkConvexCastDemo/CMakeFiles/AppLinearConvexCastDemo.dir/main.o
+Linking CXX executable AppLinearConvexCastDemo
+[ 96%] Built target AppLinearConvexCastDemo
+Scanning dependencies of target AppMultiMaterialDemo
+[ 97%] Building CXX object Demos/MultiMaterialDemo/CMakeFiles/AppMultiMaterialDemo.dir/MultiMaterialDemo.o
+[ 97%] Building CXX object Demos/MultiMaterialDemo/CMakeFiles/AppMultiMaterialDemo.dir/main.o
+Linking CXX executable AppMultiMaterialDemo
+[ 97%] Built target AppMultiMaterialDemo
+Scanning dependencies of target AppSerializeDemo
+[ 98%] Building CXX object Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/main.o
+[ 98%] Building CXX object Demos/SerializeDemo/CMakeFiles/AppSerializeDemo.dir/SerializeDemo.o
+Linking CXX executable AppSerializeDemo
+[ 98%] Built target AppSerializeDemo
+Scanning dependencies of target AppInternalEdgeDemo
+[ 98%] Building CXX object Demos/InternalEdgeDemo/CMakeFiles/AppInternalEdgeDemo.dir/InternalEdgeDemo.o
+[ 99%] Building CXX object Demos/InternalEdgeDemo/CMakeFiles/AppInternalEdgeDemo.dir/main.o
+Linking CXX executable AppInternalEdgeDemo
+[ 99%] Built target AppInternalEdgeDemo
+Scanning dependencies of target AppBenchmarks
+[ 99%] Building CXX object Demos/Benchmarks/CMakeFiles/AppBenchmarks.dir/main.o
+[100%] Building CXX object Demos/Benchmarks/CMakeFiles/AppBenchmarks.dir/BenchmarkDemo.o
+Linking CXX executable AppBenchmarks
+[100%] Built target AppBenchmarks
